@@ -1,8 +1,6 @@
-title: "Spigot at Minecon"
-tags:
-  - minecraft
-  - minecon
-  - spigot
+---
+layout: post
+title: Spigot at Minecon
 ---
 Once again, Spigot will be exhibiting at Minecon. It was [announced](http://www.spigotmc.org/threads/spigotmc-is-exhibiting-at-minecon-2015.68872/) last saturday, just 35 days before the event.
 This is be the second time they have exhibited at Minecon, as they also exhibited last Minecon (2013).

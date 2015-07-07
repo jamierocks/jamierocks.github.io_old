@@ -1,9 +1,6 @@
-title: "Changes to SOS4"
-date: 2015-05-25 22:37:54
-tags:
-  - minecraft
-  - sos
-  - sponge
+---
+layout: post
+title: Changes to SOS4
 ---
 Yesterday it was announced that State Of Sponge Four has been rescheduled to Saturday the 6th of June.
 It was rescheduled to be a month prior to Minecon.

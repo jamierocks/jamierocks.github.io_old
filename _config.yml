@@ -2,6 +2,9 @@
 name: Jamie Mansfield
 root: /
 
+# Posts
+permalink: :year/:month/:day/:title/
+
 # Navigation
 navigation:
   - title: Home

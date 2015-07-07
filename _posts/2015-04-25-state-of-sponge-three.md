@@ -1,9 +1,6 @@
-title: "State Of Sponge Three"
-date: 2015-04-25 19:09:21
-tags:
-  - minecraft
-  - sos
-  - sponge
+---
+layout: post
+title: State Of Sponge Three
 ---
 In little over 2 hours, State of Sponge Three will commence.
 As usual I will watch and probably play on the server (if there is one).

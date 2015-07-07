@@ -1,9 +1,6 @@
-title: "State Of Sponge Four"
-date: 2015-05-18 22:39:53
-tags:
-  - minecraft
-  - sos
-  - sponge
+---
+layout: post
+title: State Of Sponge Four
 ---
 Once again SpongePowered have announced their next State Of Sponge, and like last time I will make a blog post about it.
 In case you don't know what State of Sponge is it is where the Sponge team come together to talk about their progress in a nice ~2 hour live stream.

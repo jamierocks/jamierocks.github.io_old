@@ -1,12 +1,6 @@
+---
+layout: post
 title: Introducing NeptunePowered
-date: 2015-04-18 20:53:38
-tags:
-  - neptunepowered
-  - neptunevanilla
-  - neptuneforge
-  - arno
-  - minecraft
-  - canary
 ---
 ## What is [NeptunePowered](http://www.neptunepowered.org/)?
   NeptunePowered is all about providing the best Minecraft can offer.
