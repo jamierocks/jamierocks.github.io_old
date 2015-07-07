@@ -1,0 +1,17 @@
+# General stuff
+name: Jamie Mansfield
+root: /
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+
+  - title: Blog
+    url: /blog/
+
+  - title: About Me
+    url: /about/
+
+# Disqus
+disqus_shortname: jamierocks
