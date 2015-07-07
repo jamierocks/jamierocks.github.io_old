@@ -13,5 +13,10 @@ navigation:
   - title: About Me
     url: /about/
 
+# Extra plugins
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
 # Disqus
 disqus_shortname: jamierocks
