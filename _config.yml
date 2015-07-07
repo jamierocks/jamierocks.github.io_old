@@ -21,5 +21,9 @@ gems:
   - jekyll-sitemap
   - jekyll-redirect-from
 
+# SASS settings
+sass:
+  style: :compressed
+
 # Disqus
 disqus_shortname: jamierocks
