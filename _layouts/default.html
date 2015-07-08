@@ -1,28 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="shortcut icon" href="/assets/images/avatar.png" />
-
-    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }}</title>
-
-    <!-- Bootstrap  -->
-    <link rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/{% if site.bootstrap.bootswatch %}bootswatch/{{ site.bootstrap.version }}/{{ site.bootstrap.bootswatch }}/{% else %}twitter-bootstrap/{{ site.bootstrap.version }}/css/{% endif %}bootstrap.min.css" />
-
-    <!-- Application style -->
-    <link rel="stylesheet" href="/assets/style/application.css" />
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-</head>
-<body>
+---
+layout: base
+---
 {% include navbar.html %}
 
 <div class="container">
@@ -33,11 +11,6 @@
 
 <footer class="footer">
     <div class="container">
-        <p class="footer-text">&copy; 2015, Jamie Mansfield.</p>
+        <p class="footer-text">{% include footertext.html %}</p>
     </div>
 </footer>
-
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
-</body>
-</html>
