@@ -9,7 +9,8 @@
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }}</title>
 
     <!-- Bootstrap  -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.5/journal/bootstrap.min.css" />
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/{% if site.bootstrap.bootswatch %}bootswatch/{{ site.bootstrap.version }}/{{ site.bootstrap.bootswatch }}/{% else %}twitter-bootstrap/{{ site.bootstrap.version }}/css/{% endif %}bootstrap.min.css" />
 
     <!-- Application style -->
     <link rel="stylesheet" href="/assets/style/application.css" />
@@ -29,6 +30,12 @@
         {{ content }}
     </main>
 </div>
+
+<footer class="footer">
+    <div class="container">
+        <p class="footer-text">&copy; 2015, Jamie Mansfield.</p>
+    </div>
+</footer>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>

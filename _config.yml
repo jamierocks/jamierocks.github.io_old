@@ -2,6 +2,11 @@
 name: Jamie Mansfield
 root: /
 
+# Bootstrap theme
+bootstrap:
+  bootswatch: journal
+  version: 3.3.5
+
 # Posts
 permalink: :year/:month/:day/:title/
 
@@ -19,6 +24,8 @@ navigation:
 # Extra plugins
 gems:
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-mentions
   - jekyll-redirect-from
 
 # SASS settings
