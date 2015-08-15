@@ -3,7 +3,7 @@ layout: post
 title: Visage - An avatar service
 ---
 Not very long ago Lapitar was deprecated in favour of Visage.<br />
-![Me](https://visage.gameminers.com/full/512/3923ded05a0b4dadba834d870cb3e328.png)<br />
+![Me](https://visage.gameminers.com/full/3923ded05a0b4dadba834d870cb3e328.png)<br />
 Visage is not only a successor to Lapitar, it is also a lot better than Lapitar.
 This is because of better code, and Visage is backed by better servers.
 
