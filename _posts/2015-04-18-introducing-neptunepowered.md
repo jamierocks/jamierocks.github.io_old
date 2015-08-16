@@ -8,7 +8,7 @@ title: Introducing NeptunePowered
   Currently we are working on Neptune, described below.
 
 ## What do we do?
-  Neptune currently develops the following:
+  We currently develops the following:
 
   - [NeptuneVanilla](https://github.com/NeptunePowered/NeptuneVanilla)
   - [NeptuneForge](https://github.com/NeptunePowered/NeptuneForge)
@@ -27,7 +27,8 @@ title: Introducing NeptunePowered
   
 ## What about Arno?
   Arno was renamed and lives on through NeptuneForge.
-  Little change was made during the transition to Neptune. The major one being it is now powered by NeptuneCommon.
+  Little change was made during the transition to Neptune, however much of it's code was moved into NeptuneCommon 
+  something of which it is now reliant on.
   
 ## Contact us
   You are able to contact us in our public IRC channels: [#neptune](https://kiwiirc.com/client/irc.esper.net/?#neptune) and [#neptunedev](https://kiwiirc.com/client/irc.esper.net/?#neptunedev) (irc.esper.net).

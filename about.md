@@ -5,7 +5,8 @@ redirect_from: /About-Me/
 permalink: /about/
 ---
 ## Hi there,
-My name is Jamie and I am a hobbyist programmer, already doing development for Qixalite, Korobi, Neptune and more. I often also dabble in the world of web, specifically developing server-side applications. I occasionally play Minecraft (usually modded) given some time, otherwise you will find me playing some other game, or programming.
+My name is Jamie and I am a hobbyist programmer, already doing development for [Qixalite](https://forums.qixalite.com/), [Korobi](https://korobi.io/), [Neptune](https://www.neptunepowered.org/) 
+and more. I often also dabble in the world of web, specifically developing server-side applications. I occasionally play Minecraft (usually modded) given some time, otherwise you will find me playing some other game, or programming.
 
 ## Contact me
 If you are ever in the need to contact me, feel free to use any of the following (in preferable order):
@@ -23,7 +24,8 @@ Two years on (I think), I then started to learn Java, one of the best decisions 
 ## Experience with Minecraft Forge
 ** This section was made as per the request of @TBotV63 **
 
-After a long hiatus from using Forge, I have once more made an appearance (although in the form of private mods) in the client modding world. Currently I am working on a combat mod, an ee2-clone and a super-secret mod.
+After a long hiatus from using Forge, I have once more made an appearance (although privately) in the client modding 
+world. Currently I am working on a combat mod, an ee2-clone and a super-secret mod.
 
 ## My knowledge
 

@@ -18,6 +18,9 @@ navigation:
   - title: Blog
     url: /blog/
 
+  - title: Dev Blog
+    url: http://tumblr.jamierocks.uk/
+
   - title: About Me
     url: /about/
 
