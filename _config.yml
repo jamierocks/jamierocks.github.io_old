@@ -4,7 +4,7 @@ root: /
 
 # Bootstrap theme
 bootstrap:
-  bootswatch: journal
+  bootswatch: flatly
   version: 3.3.5
 
 # Posts
